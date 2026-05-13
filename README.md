@@ -91,7 +91,6 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 </a>
 
 <a href="https://github.com/yourusername/ecommerce">
-<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>

@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hesham
+# Hi there I'm Hesham
 
 <h3 align="center">🚀 Full Stack MERN Developer</h3>
 
@@ -8,146 +8,171 @@ Passionate Full Stack Developer focused on building scalable, modern, and high-p
 
 ---
 
-# 🚀 About Me
-
-- 💻 Full Stack MERN Developer
-- ⚡ Building scalable web applications
-- 🎨 Passionate about modern UI/UX
-- 🔥 Focused on clean architecture & performance
-- 📚 Currently learning advanced backend systems & PostgreSQL
-- 🚀 Love building real-world full stack projects
-
----
-
 # 💻 Tech Stack
 
-## 🎨 Frontend Development
+# 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite" />
-</p>
+<div align="left">
 
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- Tailwind CSS
-- Redux Toolkit
-- Context API
-- Framer Motion
-- Responsive Design
-- Axios
-- React Hook Form
-- Shadcn UI
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
----
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-- JWT Authentication
-- OAuth Authentication
-- API Security
-- MVC Architecture
-- File Upload Systems
-- Payment Integration
-- Error Handling
-- Middleware Architecture
+</div>
 
 ---
 
-## 🗄️ Database
+# ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
+<div align="left">
 
-- MongoDB
-- Mongoose
-- PostgreSQL
-- SQL
-- Aggregation Pipelines
-- Database Modeling
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Security-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVC_Architecture-1E293B?style=for-the-badge"/>
 
----
-
-## ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
-
-- Git & GitHub
-- Postman
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🗄️ Database & Tools
 
-<table>
+<div align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+
+</div>
+
+---
+
+# 🚀 Projects
+
+<table width="100%">
 <tr>
+<td width="100%" valign="top">
 
-<td width="50%">
-
-<h3 align="center">🛒 E-Commerce Platform</h3>
+<h2 align="center">🛒 MERN Stack E-Commerce Platform</h2>
 
 <p align="center">
-Modern full stack ecommerce platform with authentication, cart, wishlist, coupons, orders, dashboard and payment integration.
+Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced admin dashboard, secure authentication, online payments, analytics and responsive UI.
 </p>
 
-### ⚡ Features
+<p align="center">
 
-- Authentication & Authorization
-- Cart & Wishlist
-- Coupons System
-- Orders Management
-- Admin Dashboard
+<img src="YOUR_PROJECT_IMAGE_LINK" width="100%" />
+
+</p>
+
+---
+
+## 🔗 Live Links
+
+<p align="center">
+
+<a href="https://your-store-link.com">
+<img src="https://img.shields.io/badge/🛍️_Live_Store-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://your-admin-dashboard-link.com">
+<img src="https://img.shields.io/badge/⚙️_Admin_Dashboard-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/yourusername/ecommerce">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+# 🛍️ Store Features
+
+### 👤 Authentication System
+- Login & Register
+- JWT Authentication
+- Protected Routes
+- Forgot Password
+- Email Verification
+
+### 🛒 Shopping Experience
+- Add To Cart
+- Wishlist System
+- Product Variants
+- Product Search
+- Filters & Sorting
+- Free Shipping Progress
+
+### 💳 Checkout & Payments
+- Checkout Flow
 - PayPal Integration
+- Order Confirmation
+- Invoice System
+- Order Tracking
+
+### 🎨 UI/UX
 - Responsive Design
-
-### 🛠️ Tech Stack
-
-React • Node.js • Express • MongoDB
-
-### 🔗 Links
-
-- Live Demo: https://your-demo-link.com
-- Repository: https://github.com/yourusername/ecommerce
+- Skeleton Loaders
+- Framer Motion Animations
+- Modern Product Pages
+- Image Zoom System
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">📰 News Platform</h3>
+# ⚙️ Admin Dashboard Features
 
-<p align="center">
-Full stack news platform with categories, dashboard, comments system and responsive UI.
-</p>
+### 📦 Products Management
+- Create Products
+- Edit Products
+- Delete Products
+- Product Variants
+- Stock Management
+- Categories Management
 
-### ⚡ Features
+### 📊 Analytics Dashboard
+- Sales Statistics
+- Revenue Charts
+- Orders Analytics
+- Top Products
+- Daily & Monthly Reports
 
-- Authentication System
-- Admin Dashboard
-- Categories & Articles
-- Comments System
-- Responsive UI
-- SEO Friendly
+### 📑 Orders Management
+- Update Order Status
+- Payment Status
+- Shipping Tracking
+- Invoice Management
 
-### 🛠️ Tech Stack
+### 👥 Users Management
+- Manage Customers
+- User Roles
+- Reviews Management
+- Address Management
 
-React • Express • MongoDB
-
-### 🔗 Links
-
-- Live Demo: https://your-demo-link.com
-- Repository: https://github.com/yourusername/news-platform
+### ⚡ Advanced Features
+- Coupons System
+- Free Shipping Settings
+- Dynamic Homepage Sections
+- File Upload System
+- API Security
 
 </td>
 
@@ -156,54 +181,21 @@ React • Express • MongoDB
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
-
-# 🔥 Current Focus
-
-- Advanced Backend Architecture
-- Scalable MERN Applications
-- Performance Optimization
-- PostgreSQL Systems
-- Clean Code & Best Practices
-- Advanced React Patterns
-
----
-
-# 📫 Contact Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```bash
-I enjoy turning complex problems into scalable and clean solutions 🚀

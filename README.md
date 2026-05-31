@@ -46,7 +46,7 @@ Passionate Full Stack Developer focused on building scalable, modern, and high-p
 
 ---
 
-## 🗄️ Database & Tools
+## 🗄️ Tools
 
 <div align="left">
 

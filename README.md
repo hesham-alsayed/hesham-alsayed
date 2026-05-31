@@ -10,7 +10,7 @@ Passionate Full Stack Developer focused on building scalable, modern, and high-p
 
 # 💻 Tech Stack
 
-# 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <div align="left">
 
@@ -31,7 +31,7 @@ Passionate Full Stack Developer focused on building scalable, modern, and high-p
 
 ---
 
-# ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <div align="left">
 
@@ -46,13 +46,13 @@ Passionate Full Stack Developer focused on building scalable, modern, and high-p
 
 ---
 
-# 🗄️ Database & Tools
+## 🗄️ Database & Tools
 
 <div align="left">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
 
 </div>
 
@@ -71,9 +71,7 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 </p>
 
 <p align="center">
-
 <img src="YOUR_PROJECT_IMAGE_LINK" width="100%" />
-
 </p>
 
 ---
@@ -82,15 +80,12 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 <p align="center">
 
-<a href="https://your-store-link.com">
+<a href="https://mern-stack-ecommerce-tau.vercel.app/">
 <img src="https://img.shields.io/badge/🛍️_Live_Store-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://your-admin-dashboard-link.com">
+<a href="https://mern-stack-ecommerce-admin-mu.vercel.app">
 <img src="https://img.shields.io/badge/⚙️_Admin_Dashboard-111827?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/yourusername/ecommerce">
 </a>
 
 </p>
@@ -102,7 +97,7 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 <td width="50%" valign="top">
 
-# 🛍️ Store Features
+## 🛍️ Store Features
 
 ### 👤 Authentication System
 - Login & Register
@@ -137,7 +132,7 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 <td width="50%" valign="top">
 
-# ⚙️ Admin Dashboard Features
+## ⚙️ Admin Dashboard Features
 
 ### 📦 Products Management
 - Create Products
@@ -180,6 +175,17 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 ---
 
+## 🔐 Admin Access (Demo Only)
+
+> For testing purposes only (Admin Dashboard)
+
+- 📧 Email: admin@example.com  
+- 🔑 Password: Admin@123456  
+
+⚠️ These credentials are for demo usage only in the live project. Do not use in production.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -192,8 +198,12 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 </p>
 
-</td>
-</tr>
-</table>
-
 ---
+
+## 📌 Notes
+
+- Built with MERN Stack best practices
+- Secure authentication using JWT
+- Scalable architecture (MVC pattern)
+- Fully responsive UI/UX
+- Production-ready structure

@@ -58,6 +58,19 @@ Passionate Full Stack Developer focused on building scalable, modern, and high-p
 
 ---
 
+## 🛢️ Databases & ORM
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+</div>
+
+---
+
 # 🚀 Projects
 
 <table width="100%">

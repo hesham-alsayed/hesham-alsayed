@@ -103,6 +103,17 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 </p>
 
+
+## 🔐 Admin Access (Demo Only)
+
+> For testing purposes only (Admin Dashboard)
+
+- 📧 Email:adminsystem@gmail.com  
+- 🔑 Password:11111111
+
+⚠️ These credentials are for demo usage only in the live project. Do not use in production.
+
+---
 ---
 
 <table width="100%">
@@ -188,16 +199,7 @@ Modern Full Stack E-Commerce Platform built with MERN Stack featuring advanced a
 
 ---
 
-## 🔐 Admin Access (Demo Only)
 
-> For testing purposes only (Admin Dashboard)
-
-- 📧 Email: admin@example.com  
-- 🔑 Password: Admin@123456  
-
-⚠️ These credentials are for demo usage only in the live project. Do not use in production.
-
----
 
 ## 🛠️ Tech Stack
 
